@@ -59,11 +59,11 @@
 Operating Systems • Advanced Data Analytics • Neural Networks • Software Architecture • Control Systems.
 
 #### Awards/Leadership
-3x Dean's List Scholar • Founder & President — Queen’s Cricket Club • QTEDT Chief Technical Officer •
+3x Dean's List Scholar • Founder & President — Queen’s Cricket Club • QTEDT Chief Technical Officer.
 
 </details>
 
 <!-- Footer -->
 <p align="center">
-  <sub>Thanks for stopping by! If my work resonates, feel free to reach out or open an issue.</sub>
+  <sub>Thanks for stopping by! If my work resonates, feel free to reach out.</sub>
 </p>
