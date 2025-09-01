@@ -24,11 +24,11 @@
 - **Phantom Object Detection (DL, Python/Torch)** — Compared 2D vs 3D detectors; analyzed lighting effects on false positives; built a predictive model to flag phantom objects.  
   `Python` `PyTorch` `YOLO` · [Code](https://github.com/virentated/REPO_PHANTOM) · [Demo](https://github.com/virentated/REPO_PHANTOM#readme)
 - **Battleship (C++/SFML)** — Full game engine w/ clean OOP design, event loop, rendering, and tests.  
-  `C++` `SFML` · [Code](https://github.com/virentated/REPO_BATTLESHIP)
+  `C++` `SFML` · [Code](https://github.com/virentated/battleship)
 - **Indoor Air-Quality PID Control** — Designed & tuned controllers; reduced rise time/overshoot vs baseline, validated with LTI models.  
-  `MATLAB/Simulink` `Control` · [Report](https://github.com/virentated/REPO_PID)
+  `MATLAB/Simulink` `Control` · [Report](https://queensuca-my.sharepoint.com/:b:/g/personal/21vt17_queensu_ca/ETdyuYGwDl1Ko_IPo0IsszUBaV3khJlThQi_XoxVAqt2DA?e=8OTxbu)
 - **Autonomous Rover** — NN-based navigation with classical ML baselines; teleop UI in Tkinter.  
-  `Python` `NumPy` `Pandas` · [Code](https://github.com/virentated/REPO_ROVER)
+  `Python` `NumPy` `Pandas` · [Code](https://github.com/virentated/Autonomous-Rover)
 
 > Want a quick skim? Check the pinned repos below 👇
 
@@ -54,13 +54,12 @@
 
 #### Selected Projects
 - Data Engineering mini-pipeline with Spark → real-time analytics dashboard.  
-- Wavelets & Fourier series labs; survival analysis notebooks (lifelines, Cox PH).
 
 #### Coursework highlights
 Operating Systems • Advanced Data Analytics • Neural Networks • Software Architecture • Control Systems.
 
 #### Awards/Leadership
-Founder & President — Queen’s Cricket Club • Residence Don • QTEDT Chief Technical Officer.
+3x Dean's List Scholar • Founder & President — Queen’s Cricket Club • QTEDT Chief Technical Officer •
 
 </details>
 
