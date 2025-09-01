@@ -22,7 +22,7 @@
 
 ### 🚀 Featured Work
 - **Phantom Object Detection (DL, Python/Torch)** — Compared 2D vs 3D detectors; analyzed lighting effects on false positives; built a predictive model to flag phantom objects.  
-  `Python` `PyTorch` `YOLO` · [Code](https://github.com/virentated/REPO_PHANTOM) · [Demo](https://github.com/virentated/REPO_PHANTOM#readme)
+  `Python` `PyTorch` `YOLO` · [Code](https://github.com/virentated/REPO_PHANTOM)
 - **Battleship (C++/SFML)** — Full game engine w/ clean OOP design, event loop, rendering, and tests.  
   `C++` `SFML` · [Code](https://github.com/virentated/battleship)
 - **Indoor Air-Quality PID Control** — Designed & tuned controllers; reduced rise time/overshoot vs baseline, validated with LTI models.  
