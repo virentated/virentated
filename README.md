@@ -1,6 +1,6 @@
 <!-- Banner (export a slim dark-blue banner from Canva and host via your repo's assets) -->
 <p align="center">
-  <img src="assets/header-banner.png" alt="Viren Tated — Applied Math & Computer Engineering" width="100%" />
+  <img src="https://i.postimg.cc/CMZm9SBk/header-banner.png" alt="Viren Tated — Applied Math & Computer Engineering" width="100%" />
 </p>
 
 <h1 align="center">Hi, I’m Viren 👋</h1>
