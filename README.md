@@ -38,14 +38,14 @@
 **Languages:** Python • C/C++ • Java • SQL  
 **ML/Data:** PyTorch • scikit-learn • NumPy • Pandas • TensorFlow  
 **Systems/Tools:** Git • Linux • Docker • MySQL • Firebase • Canva  
-<!-- Keep this list short; link to a longer stack inside a collapsible if needed -->
+
 
 ---
 
 ### 📌 Now
-- Learning **quant dev** essentials (data pipelines + pricing models)
+- Learning **OperaTING Systems** essentials (linux/unix and virtual machines)
 - Shipping **ML robustness** experiments (adversarial / phantom detections)
-- Building **systems projects** in C++ for stronger fundamentals
+- Building **Systems projects** in C++ for stronger fundamentals
 
 ---
 
@@ -63,7 +63,3 @@ Operating Systems • Advanced Data Analytics • Neural Networks • Software A
 
 </details>
 
-<!-- Footer -->
-<p align="center">
-  <sub>Thanks for stopping by! If my work resonates, feel free to reach out.</sub>
-</p>
