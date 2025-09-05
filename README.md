@@ -50,10 +50,9 @@
 ---
 
 <details>
-<summary><b>More projects, coursework & awards</b></summary>
+<summary><b>Coursework & awards</b></summary>
 
-#### Selected Projects
-- Data Engineering mini-pipeline with Spark → real-time analytics dashboard.  
+
 
 #### Coursework highlights
 Operating Systems • Advanced Data Analytics • Neural Networks • Software Architecture • Control Systems.
