@@ -43,7 +43,7 @@
 ---
 
 ### 📌 Now
-- Learning **OperaTING Systems** essentials (linux/unix and virtual machines)
+- Learning **Operating Systems** essentials (linux/unix and virtual machines)
 - Shipping **ML robustness** experiments (adversarial / phantom detections)
 - Building **Systems projects** in C++ for stronger fundamentals
 
